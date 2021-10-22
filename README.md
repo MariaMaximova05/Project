@@ -13,6 +13,10 @@
 **Выводим теги/информацию первого элемента страницы сайта (в данном случае, первого в списке архитектурного конкурса)**
 ![](https://github.com/MariaMaximova05/Project/blob/main/3.png)
 
+**Создаем цикл, чтобы изымать теги со всех элементов с разных страниц сайта не вручную, а при помощи пайтона. Загружаем sleep, чтобы не перегружать систему**
+![](https://github.com/MariaMaximova05/Project/blob/main/4.png)
+![](https://github.com/MariaMaximova05/Project/blob/main/6.png)
+
 *jkjkj*
 **kjkjk**
 hhhh
