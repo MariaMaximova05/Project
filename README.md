@@ -29,20 +29,4 @@
 
 ![](https://github.com/MariaMaximova05/Project/blob/main/8.png)
 
-
-
-
-*jkjkj*
-**kjkjk**
-hhhh
-
-
-
-<s>hhhhh</s>
-  
-  ```{python}
-  print('Hello world')
-  ```
-  Ссылка на код: [Итоговый проект](https://colab.research.google.com/drive/1oY6ANERvbMyj-6wgdMZECP4H753MGNbF#scrollTo=HoGwfXEFDQA9&uniqifier=1)
-  
-  ![](https://fastly.syg.ma/attachments/605fa1016ca91c7804ddb9f405e899388228ba5d/store/6a6b85c380d60fad0eb5c97a6df51a20daf9e34a5ed6390d2c9f4c1191d8/file.jpeg)
+### При помощи преобразования таблицы в Excel можно более кратко и наглядно увидеть весь список архитектурных конкурсов, а также сортировать данные таблицы по дате, названию, странам итд. Этот метод полезен как при систематизации данных, взятых с различных сайтов. Beautiful Soup полезен так же тем, что он позволяет собрать все данные при помощи кода, чтобы не делать это вручную, так как при наличии большого количества информации это займет большое количество времени ###
