@@ -21,9 +21,15 @@
 ![](https://github.com/MariaMaximova05/Project/blob/main/4.png)
 ![](https://github.com/MariaMaximova05/Project/blob/main/6.png)
 
-**И наконец загружаем библиотеку Pandas, чтобы преобразовать полученную информацию в таблицу. Озаглавливаем столбцы при помощи списка. Прописываем, что нам необходим формат csv, чтобы открыть таблицу в excel**
+**И наконец загружаем библиотеку Pandas, чтобы преобразовать полученную информацию в таблицу. Озаглавливаем столбцы при помощи списка. Преобразовываем в формат xlsx, чтобы открыть таблицу в excel**
 
 ![](https://github.com/MariaMaximova05/Project/blob/main/7.png)
+
+**Скачиваем таблицу и открываем ее в Excel**
+
+![](https://github.com/MariaMaximova05/Project/blob/main/8.png)
+
+
 
 
 *jkjkj*
@@ -37,6 +43,6 @@ hhhh
   ```{python}
   print('Hello world')
   ```
-  Ссылка на код: [текст](ссылка на код в коллабе)
+  Ссылка на код: [Итоговый проект](https://colab.research.google.com/drive/1oY6ANERvbMyj-6wgdMZECP4H753MGNbF#scrollTo=HoGwfXEFDQA9&uniqifier=1)
   
   ![](https://fastly.syg.ma/attachments/605fa1016ca91c7804ddb9f405e899388228ba5d/store/6a6b85c380d60fad0eb5c97a6df51a20daf9e34a5ed6390d2c9f4c1191d8/file.jpeg)
